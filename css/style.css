@@ -1,0 +1,46 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.section {
+    margin: 20px auto;
+}
+
+.div {
+    margin: auto;
+    max-width: 439px;
+}
+
+.form {
+    margin: 20px auto;
+    max-width: 439px;
+}
+
+.container {
+    text-align: center;
+}
+
+.header {
+    margin: auto;
+    text-align: center;
+}
+
+.button {
+    width: 100%;
+}
+
+.tableHeader {
+    text-align: center;
+}
+
+.update {
+    max-width: 55px;
+    height: 20px;
+    margin: 5px;
+    font-size: 10px;
+}
+
